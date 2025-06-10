@@ -1,55 +1,45 @@
-# 🛒 Tienda de Tecnología React
+# 🛒 Tienda de Tecnología - React + Vite
 
-Este proyecto es una tienda virtual de productos tecnológicos creada con **React**. Permite al usuario:
+Este proyecto es una tienda en línea de productos tecnológicos construida con **React + Vite**. Permite a los usuarios:
 
-- Ver una lista de productos tecnológicos con imagen y precio.
-- Agregar productos al carrito con una cantidad personalizada.
-- Aumentar, reducir o eliminar productos directamente desde el carrito.
-- Ver el total actualizado en tiempo real.
+- Navegar productos tecnológicos.
+- Agregar productos al carrito.
+- Ajustar cantidades o eliminar ítems.
+- Visualizar el total del carrito.
 
-## 🚀 Tecnologías usadas
+## 🚀 Tecnologías utilizadas
 
-- React (useState)
-- HTML5 / CSS3
-- JavaScript ES6+
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- CSS moderno
 
-## 📁 Estructura
-
-```
-src/
-├── components/
-│   └── TiendaTecnologia.jsx
-├── css/
-│   └── TiendaTecnologia.css
-└── App.jsx
-```
-
-## 🔧 Cómo ejecutar
+## 📦 Instalación
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
-   cd tu-repo
-   ```
+
+```bash
+git https://github.com/Merleck7/M4-C2-TiendaTech
+cd Manejo-de-estado
+  ```
 
 2. Instala las dependencias:
-   ```bash
+   ```
    npm install
    ```
 
-3. Ejecuta el proyecto:
-   ```bash
-   npm start
+3. Inicia el servidor de desarrollo::
    ```
+   npm run dev
+   ```
+4. Abre tu navegador en:
+   ```
+   http://localhost:5173
 
-## ✨ Capturas
-
-Puedes agregar capturas de pantalla aquí para mostrar la UI.
+   ```
+   
 
 ## 📌 Autor
 
 Luis Mendoza – [@MerlecK7](https://github.com/Merleck7)
 
 ---
-
-¡Personaliza este README si cambias el nombre del proyecto o agregas más funciones!
