@@ -29,6 +29,7 @@
   flex-direction: column;
   transition: transform 0.2s ease;
   cursor: pointer;
+  align-items: center;
 }
 
 .card-producto:hover {
@@ -59,8 +60,10 @@
   width: 60px;
   padding: 0.3rem;
   margin: 0 0.5rem 0.5rem;
-  border: 1px solid #cbd5e1;
+  border: 1px solid #0000007c;
   border-radius: 4px;
+  background-color: #ffffff;
+  color: #000;
 }
 
 .card-producto button {
